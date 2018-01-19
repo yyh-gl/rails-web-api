@@ -1,24 +1,19 @@
-# README
+# RailsでWEB APIの勉強
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+>> 詳細は[Qiita]()に投稿
 
-Things you may want to cover:
 
+#######################################
 * Ruby version
+2.5.0
 
-* System dependencies
+* Rails version
+Rails 5.1.4
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+* Gems
+- spec-rails
+- faker
+- factory_girl_rails
+- shoulda_matchers
+- database_cleaner
+#######################################
